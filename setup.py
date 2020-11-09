@@ -8,6 +8,7 @@ setup(
     author='Vinícius Gonçalves Roque',
     author_email='vinicius.g.roque@gmail.com',
     description='Integração bling',
+    python_requires='>=3.6',
     packages=['bling', ],
     install_requires=[
         'dicttoxml>=1.7.4',
